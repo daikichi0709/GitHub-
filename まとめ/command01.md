@@ -16,6 +16,9 @@
 
 ・cp ファイルコピーする。
 
+・ファイル作成
+　　(例:$ touch <ファイル名>)
+
 ・mv ファイルの移動or名前変更する。
    (例:git mv index.html index2.html)名前変更
 理由は、git mv が
